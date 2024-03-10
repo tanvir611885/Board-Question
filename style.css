@@ -1,0 +1,12 @@
+.tanvir{display:inline-block;color:white; background-color: tomato;text-decoration:none;border-radius:3px;padding:10px15px;transition:0.6s}
+.tanvir:hover{display:inline-block;color:white; background-color: aqua;text-decoration:none;border-radius:3px;padding:10px15px;}
+#table{text-align:center;margin-left:100px;}
+.physics{color:black;background-color:aqua;text-decoration:none; display:inline-block;border-radius:3px;transition:0.6s;}
+.physics:hover{ color:yellow;background-color:maroon;}
+.chemestry{display:inline-block;color:black;background-color:teal;border-radius:3px;text-decoration:none;transition:0.6s}
+.chemestry:hover{color:black;background-color:pink;}
+.biology{display:inline-block;color:aqua;background-color:darkblue;text-decoration:none;border-radius:3px;transition:0.6s}
+.biology:hover{ color:green;background-color:aqua;}
+#math{color:wheat;display:inline-block;
+ background-color:blue;text-decoration:none;border-radius:3px;transition:0.6s}
+ #math:hover{color:black;background-color:turquoise;}
